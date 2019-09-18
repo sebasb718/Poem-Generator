@@ -1,0 +1,11 @@
+C:\Users\sebas\Desktop\Self Training\Poem Generator\Source Code\Poem Generator\bin\Debug\netcoreapp2.2\Poem Generator.deps.json
+C:\Users\sebas\Desktop\Self Training\Poem Generator\Source Code\Poem Generator\bin\Debug\netcoreapp2.2\Poem Generator.runtimeconfig.json
+C:\Users\sebas\Desktop\Self Training\Poem Generator\Source Code\Poem Generator\bin\Debug\netcoreapp2.2\Poem Generator.runtimeconfig.dev.json
+C:\Users\sebas\Desktop\Self Training\Poem Generator\Source Code\Poem Generator\bin\Debug\netcoreapp2.2\Poem Generator.dll
+C:\Users\sebas\Desktop\Self Training\Poem Generator\Source Code\Poem Generator\bin\Debug\netcoreapp2.2\Poem Generator.pdb
+C:\Users\sebas\Desktop\Self Training\Poem Generator\Source Code\Poem Generator\obj\Debug\netcoreapp2.2\Poem Generator.csprojAssemblyReference.cache
+C:\Users\sebas\Desktop\Self Training\Poem Generator\Source Code\Poem Generator\obj\Debug\netcoreapp2.2\Poem Generator.csproj.CoreCompileInputs.cache
+C:\Users\sebas\Desktop\Self Training\Poem Generator\Source Code\Poem Generator\obj\Debug\netcoreapp2.2\Poem Generator.AssemblyInfoInputs.cache
+C:\Users\sebas\Desktop\Self Training\Poem Generator\Source Code\Poem Generator\obj\Debug\netcoreapp2.2\Poem Generator.AssemblyInfo.cs
+C:\Users\sebas\Desktop\Self Training\Poem Generator\Source Code\Poem Generator\obj\Debug\netcoreapp2.2\Poem Generator.dll
+C:\Users\sebas\Desktop\Self Training\Poem Generator\Source Code\Poem Generator\obj\Debug\netcoreapp2.2\Poem Generator.pdb

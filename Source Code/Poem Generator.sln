@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poem Generator", "Poem Generator\Poem Generator.csproj", "{FA1957C6-96BB-4B98-B1EB-4B16DB26E8DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA1957C6-96BB-4B98-B1EB-4B16DB26E8DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA1957C6-96BB-4B98-B1EB-4B16DB26E8DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA1957C6-96BB-4B98-B1EB-4B16DB26E8DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA1957C6-96BB-4B98-B1EB-4B16DB26E8DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C941041-B9FC-448A-883B-45DF92DB57EC}
+	EndGlobalSection
+EndGlobal
